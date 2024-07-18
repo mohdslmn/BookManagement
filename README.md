@@ -7,11 +7,11 @@ including adding, updating, deleting, and viewing book details. The project is d
 
 Features:
 
-Add new books to the collection
-Update existing book details
-Delete books from the collection
-View a list of all books
-Search for books by title or author
+#Add new books to the collection\n
+#Update existing book details\n
+#Delete books from the collection\n
+#View a list of all books\n
+#Search for books by title or author\n
 
 Technologies Used:
 
